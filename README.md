@@ -1,7 +1,17 @@
 # Portfolio
 # 📌 Vindhya Vaasini Mallapuram
-![My Profile](profile.png)
 <img src="profile.png" alt="My Profile Image" width="200" style="border-radius: 50%; display: block; margin: auto;">
+<style>
+.profile-pic {
+    width: 200px; /* Adjust size */
+    height: 200px; /* Keep height same as width */
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    border: 3px solid #fff; /* Optional border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Optional shadow */
+}
+</style>
 🚀 **Welcome to my portfolio repository!** This GitHub repository showcases my work, projects, skills, and achievements as I pursue my **Master's in Data Science at the University of New Haven (2024-2026).** 
 
 ## 🌟 About Me
