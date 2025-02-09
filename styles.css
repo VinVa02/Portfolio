@@ -1,7 +1,8 @@
 .profile-pic {
-    width: 200px; /* Adjust size */
-    height: 200px; /* Keep height same as width */
+    width: 200px;  /* Ensure width is equal to height */
+    height: 200px;
     border-radius: 50%;
+    object-fit: cover;  /* Ensures the image fits properly */
     display: block;
     margin: auto;
     border: 3px solid #fff; /* Optional border */
