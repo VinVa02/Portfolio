@@ -1,10 +1,10 @@
 .profile-pic {
-    width: 200px;  /* Ensure width is equal to height */
-    height: 200px;
+    width: auto;  /* Maintain original width */
+    height: auto; /* Maintain original height */
+    max-width: 200px;  /* Adjust based on your layout */
+    max-height: 200px;
     border-radius: 50%;
-    object-fit: cover;  /* Ensures the image fits properly */
+    object-fit: cover;
     display: block;
     margin: auto;
-    border: 3px solid #fff; /* Optional border */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Optional shadow */
 }
