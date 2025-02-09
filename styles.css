@@ -1,0 +1,9 @@
+.profile-pic {
+    width: 200px; /* Adjust size */
+    height: 200px; /* Keep height same as width */
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    border: 3px solid #fff; /* Optional border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Optional shadow */
+}
