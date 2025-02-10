@@ -1,8 +1,10 @@
 .profile {
-            width: 150px;
-            height: 150px;
-            object-fit: cover;
-            border-radius: 50%;
-            border: 1px solid white;
-            margin-top: 10px;
+    width: 150px;  /* Set fixed width */
+    height: 150px; /* Set fixed height to match width */
+    aspect-ratio: 1 / 1; /* Ensures a perfect square */
+    object-fit: contain;  /* Keeps original proportions without distortion */
+    border-radius: 50%;
+    border: 1px solid white;
+    margin-top: 10px;
+    display: block;
 }
