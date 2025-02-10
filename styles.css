@@ -1,10 +1,8 @@
-.profile-pic {
-    width: auto;  /* Maintain original width */
-    height: auto; /* Maintain original height */
-    max-width: 200px;  /* Adjust based on your layout */
-    max-height: 200px;
-    border-radius: 50%;
-    object-fit: cover;
-    display: block;
-    margin: auto;
+.header img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 50%;
+            border: 1px solid white;
+            margin-top: 10px;
 }
