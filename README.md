@@ -1,5 +1,5 @@
 # 📌 Vindhya Vaasini Mallapuram
-![Profile Image](profile.png)
+![Profile Image](profile_1.png)
 
 🚀 **Welcome to my portfolio repository!** This GitHub repository showcases my work, projects, skills, and achievements as I pursue my **Master's in Data Science at the University of New Haven (2024-2026).**
 
